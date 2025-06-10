@@ -127,13 +127,3 @@ This system enables autonomous offensive security operations against ICS targets
 * Executor is sandboxed (AppArmor, Firejail, nsjail)
 * Kali VM/container is isolated from production network
 * Logs are retained for all agent decisions and actions
-
----
-
-## ✅ Next Steps
-
-1. Finalize CLI interface behavior
-2. Choose executor bridge (`ssh`, `docker`, etc.)
-3. Define initial tool command schemas
-4. Implement planner with OpenAI integration
-5. Build result parser and feedback loop
