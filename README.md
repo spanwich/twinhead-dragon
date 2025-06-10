@@ -1,5 +1,6 @@
 # Twinhead Dragon (Temporary Name)
 
+## IMPORTANT: This is for research purpose only.
 ## Overview
 
 This system enables autonomous offensive security operations against ICS targets (like OpenPLC) using Kali Linux tools. The architecture separates reasoning (agentic decision-making) from execution (actual tool usage) and operates via a CLI interface for human evaluators.
